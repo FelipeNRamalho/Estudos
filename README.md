@@ -1,8 +1,3 @@
-Perfeito. Vou montar isso como uma **trilha de formação completa para Infra/Platform com foco em Riot + Go**, partindo do **zero dos fundamentos** e subindo até **nível de engenharia de produção**, com **ordem de estudo, o que aprender em cada etapa, por que aquilo existe, o que praticar e o que construir**.
-
-A ideia não é “aprender ferramentas soltas”. É construir o perfil de alguém que consegue **entender, projetar, operar e evoluir uma plataforma de serviços online** — exatamente o tipo de base que conversa com times de infraestrutura, backend de plataforma, SRE e serviços distribuídos em empresas como a Riot Games.
-
----
 
 # ROADMAP COMPLETO — INFRA / PLATFORM / SRE COM GO
 
